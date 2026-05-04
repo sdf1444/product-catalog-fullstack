@@ -133,7 +133,7 @@ Please submit your completed code as a GitHub repository link. Include a README 
 
 ---
 
-## Submission
+## Final Submission
 
 ### How to run the project
 
